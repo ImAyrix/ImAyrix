@@ -13,6 +13,7 @@ I love Python programming , trying to learn more
 </a>
 <br>
 
+
 ## 🔧 My Favorite Technologies
 
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
@@ -23,3 +24,11 @@ main.py
 def main():
     print('Hello World')
 ```
+
+## 💻 Stats 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbasAtaei&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/AbbasAtaei)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAtaei&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/AbbasAtaei)
+
