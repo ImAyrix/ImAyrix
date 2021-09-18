@@ -25,10 +25,12 @@ def main():
     print('Hello World')
 ```
 
-## 💻 Stats 
+## 💻 My Stats 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbasAtaei&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/AbbasAtaei)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAtaei&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/AbbasAtaei)
-
+<a href="https://github.com/abbasataei/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbbasAtaei&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)]" />
+</a>
+<a href="https://github.com/AbbasAtaei">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAtaei&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)" />
+</a>
