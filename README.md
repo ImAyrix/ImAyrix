@@ -11,8 +11,8 @@
 ## 🔧 My Favorite Technologies
 
 ![](https://img.shields.io/badge/Python-3477AC?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Php-4B568C?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-417399?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Linux-E9B81E?style=for-the-badge&logo=linux&logoColor=000000)
