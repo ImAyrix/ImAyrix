@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px" height="33px">,<a href="https://github.com/ImAyrix/"> I'm AmirbbasAtaei </a>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px" height="33px">,<a href="https://github.com/ImAyrix/"> I'm AmirabbasAtaei </a>
 
 ![gitartwork](gitartwork.svg)
 
