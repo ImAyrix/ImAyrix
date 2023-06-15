@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px" height="33px">,<a href="https://github.com/ImAyrix/"> I'm AmirabbasAtaei </a>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px" height="33px">,<span style="color:red"> I'm Amirabbas Ataei</span>
 
 
 
@@ -14,13 +14,13 @@
 
 ## 🔧 My Favorite Technologies
 
-![](https://img.shields.io/badge/Python-3477AC?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/MySQL-417399?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Linux-E9B81E?style=for-the-badge&logo=linux&logoColor=000000)
-![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=000000)
+![](https://img.shields.io/badge/Python-5c1086?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Go-442157?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-5c1086?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/MySQL-442157?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Git-5c1086?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Linux-442157?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Arch%20Linux-5c1086?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ## 📨 Connect with me:
 
